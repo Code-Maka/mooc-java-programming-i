@@ -10,5 +10,7 @@ public class DoubleInput {
         System.out.println("Give a number:");
         double pi = Double.valueOf(scanner.nextLine());
         System.out.println("You gave the number " + pi);
-    }
+        
+    }    
+
 }
