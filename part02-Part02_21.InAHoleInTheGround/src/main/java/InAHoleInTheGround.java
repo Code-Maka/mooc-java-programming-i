@@ -1,10 +1,12 @@
 public class InAHoleInTheGround {
 
     public static void main(String[] args) {
-        printText();
+        int x = printText();
+        System.out.println('Factprial ' + x);
     }
     
-    public static void printText() {
+    public static int printText() {
+        return 5;
         // Write some code in here
     }
 }
